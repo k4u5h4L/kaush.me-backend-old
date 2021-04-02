@@ -4,7 +4,8 @@ Open-sourcing the backend of my old portfolio/blog site since it's not in produc
 
 ## Features:
 
-- Fully functional REST API with JWT support for Authentication and Authorisation, made using Django Rest Framework.
+- Done in Python-Django with the help of Django Rest Framework.
+- Fully functional REST API with JWT support for Authentication and Authorisation.
 - File-system based route caching to minimise calls to the database. Customizable cache timeout.
 - Inbuilt Django admin panel with a custom installable and customizable theme.
 - Google ReCaptcha v2 for admin login page for added security against bots.
